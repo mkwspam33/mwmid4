@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="Table Del" max_length="40" name="x_snc_mwmid4_table_del" type="collection">
-        <element label="Del it" max_length="40" name="del_it" type="string"/>
-    </element>
-</database>
